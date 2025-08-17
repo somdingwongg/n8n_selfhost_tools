@@ -1,4 +1,3 @@
-````markdown
 # n8n Docker Deployment & Update Scripts
 
 This repository contains two scripts to help you quickly **deploy** and **update** an `n8n` instance using Docker.
